@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="commands">
+        <item>Input</item>
+        <item>Calc</item>
+        <item>About</item>
+    </string-array>
+</resources>
